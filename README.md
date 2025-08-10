@@ -10,11 +10,11 @@ Test your memory and see how far you can go before making a mistake!
 - Simple, clean design
 
 ## 📸 Screenshot
-![Simon Says Screenshot](screenshot.png)  
+![Simon Says Screenshot](https://github.com/Shahz-ft/memory-game/blob/main/Screenshot%202025-08-10%20232819.png)  
 
 
 ## 🌐 Live Demo
-[**Play the Simon Says Game**](https://yourusername.github.io/simon-says/)  
+[**Play the Simon Says Game**](https://Shahz-ft.github.io/simon-says/)  
 
 
 ## 🚀 How to Play
