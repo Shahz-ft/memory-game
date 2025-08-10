@@ -14,7 +14,7 @@ Test your memory and see how far you can go before making a mistake!
 
 
 ## 🌐 Live Demo
-[**Play the Simon Says Game**](shahz-ft.github.io/memory-game/)  
+[**Play the Simon Says Game**](https://shahz-ft.github.io/memory-game/)  
 
 
 ## 🚀 How to Play
