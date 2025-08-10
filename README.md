@@ -24,4 +24,4 @@ Test your memory and see how far you can go before making a mistake!
 4. Each round, the pattern grows by one color.
 5. The game ends when you make a mistake.
 
-## 📂 File Structure
+
